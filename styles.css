@@ -26,7 +26,7 @@ input {
 
 a {
     color: #fff;
-    font-size: 1.5em;
+    font-size: 1em;
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -108,7 +108,7 @@ span {
 
 .navbar ul {
     float: right;
-    margin-top: 1em;
+    margin-top: .5em;
 }
 
 .navbar ul li { 
@@ -139,7 +139,7 @@ span {
 }
 
 /* footer */
-#footer {
+footer {
     text-align: center;
 padding: 3em;
 

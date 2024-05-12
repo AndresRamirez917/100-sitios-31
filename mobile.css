@@ -8,9 +8,12 @@
 
 .navbar ul {
     float: none;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .navbar ul li {
+    float: none;
     display: inline;
     font-size: small;
 }
@@ -28,6 +31,6 @@
     margin-top: 1.5em;
 }
 
-#mainheader img {
-    height: 800px;
-}
+
+
+
